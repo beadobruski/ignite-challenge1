@@ -13,6 +13,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - ReactJS
 
+## Como executar?
+-  clone o meu repositório;
+-  instale as dependências do projeto utilizando `yarn`;
+-  inicie o servidor do projeto utilizando `yarn dev`;
+-  visualize o template na porta `8080`, http://localhost:8080/.
+
 
 ## License
 
